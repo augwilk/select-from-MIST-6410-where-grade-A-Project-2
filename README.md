@@ -86,7 +86,8 @@ Our data model stores a range of data regarding college football over several se
 ## Queries:
 1) Query 1 shows conference champion trends, with teams added
    
-![image](https://github.com/user-attachments/assets/4305d710-5f7c-4a70-a23b-c97facabd48a)
+![image](https://github.com/user-attachments/assets/d4ad8199-c710-4b32-b31c-3ea246b2111b)
+
 
 This query would be useful for 
 
@@ -104,7 +105,7 @@ This query is important for creating data-driven insights and knowing where to a
 
 4) Query 4 takes displays the list of all players including those who do and do not have NIL deals and displays their average receiving yards and average minutes played per game if they are a runningback or widereciever. It also provides their ID, full name, and the amount of their NIL contract if they have one. 
 
-![Screenshot 2024-12-03 102701](https://github.com/user-attachments/assets/d2b91d39-46e6-4a54-85a2-e0f05440157f)
+![image](https://github.com/user-attachments/assets/4305d710-5f7c-4a70-a23b-c97facabd48a)
 
 This query would be useful for companies interested in signing a new NIL deal with a player who has good receiving stats and gets lots of playing time. They can review who has the best perfromance in these statistical categories that doesn't yet have a NIL deal. They can also review the NIL amount of similar players. Using this data, a company might decide that they want to sign Malik Neighbors to an NIL deal since he averages the most recieving yards per game out of any player without a contract. They could also use this data to decide they shoudl make an offer for about $40k since that was a similar player has agreed to.
 
