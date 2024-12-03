@@ -86,6 +86,8 @@ Our data model stores a range of data regarding college football over several se
 ## Queries:
 1) For query 1, we created a view which held a table of players who were seniors along with their position and school they played for a predetermined season (season 1). The view can be used to determine how many/which players were seniors for a specific team to find out who would be leaving next season.
 
+![Screenshot 2024-12-03 114703](https://github.com/user-attachments/assets/f5d8130c-3d9e-44a1-8696-9c8f2a03328d)
+
 
 
 2) Query 2 shows conference champion trends, with teams added
