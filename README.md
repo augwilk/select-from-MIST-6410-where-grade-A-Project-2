@@ -133,6 +133,8 @@ This visualization is useful for program admisistrators and atheltic directors t
 
 ![Screenshot 2024-12-02 201044](https://github.com/user-attachments/assets/5436ddcb-2f1c-4c5a-aec6-99b7aac40b06)
 
+This dashboard is useful for authority figureswho want to comprehensively review relevant data for their team or school. The dashboard is a place where lots of data can be looked at and ocmpared at a high level. For example, an atheletic director fro a school like Nebraska may be looking to review the contract of their schools head coach. The AD could see that their coach has the highest salalry per win which may indicate that they are overpaid. The AD coudl then review the total wins bar chart and see that Nebraska actually has one of teh lowest win totals out of any school which likely means their head coach is seriously over paid. However, the AD may want to check the age of their starting quarterback before talking with the coach in case the reason for the losses is because the QB is in his second year when QBs tend to struggle.
+This is just one potential example where the dashboard could be useful.
 
 
 ## Database information:
@@ -140,4 +142,4 @@ This visualization is useful for program admisistrators and atheltic directors t
 Name of the database: cs_aww39979
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
-CALL TP_Q1();
+CALL SP1();
