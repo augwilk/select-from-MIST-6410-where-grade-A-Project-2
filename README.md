@@ -90,18 +90,18 @@ Our data model stores a range of data regarding college football over several se
 
 This view could be accessed by coaches and staff to view which of their players would be graduating and leaving the team next year. It would be useful as the coach could look up their specific team and find out whihc players adn positions will need to be replaced for next season. It is also helpful that the query utilizes a view because maybe the owner of teh database wouldn't want to the coach to see other information in teh database such as other coaches salaries so teh coach is only granted access to this view. In the example presented above, Clemson would need to replace a quarterback and a runningback.
 
-2) Query 2 shows conference champion trends, with teams added
+2) Query 2 shows conference champion trends, with teams cummulative win totals of conference championships. 
    
 ![image](https://github.com/user-attachments/assets/d4ad8199-c710-4b32-b31c-3ea246b2111b)
 
 
-This query would be useful for 
+This query would be useful for discovering which teams had won the most conference championships over the span of the dataset. It is important for fans to know who the most dominant team in the conference is and this query allows both fans and journalists to find out that information. This query would be most useful and insightful in a dataset with many many seasons worth of data to determine who has the most conference championships of all time in each conference.
 
-3) Query 3 shows players with the most stats and their NIL sponsor amount
+3) Query 3 shows players with the most stats and their NIL sponsor amount. The query adds all the offensive yards (passing, rushing, and receiving) only for players with NIL deals and displays the calculated figure along with the amount of their NIL deals.
 
 ![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/5ee2f443-3035-43b5-a0a2-d968ce924d68)
 
-This query shows
+This query is useful for a variety of induviduals. For players looking to score an NIL deal, they can call this query to see how many yards they should plan to get in a season to draw teh attention of potential sponsors. They can also look at the NIL amount of other players to determine what kind of value they should strive to get out of a deal. The query could also be useful for companies wanting to make an NIL deal with a player. They can use the data this query brings up to determine a fair offer to make to a player given their cummulative offensive stats.
 
 4) Query 4 shows the data from schools that include their win/loss record as well as the points scored in games. 
 
