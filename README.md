@@ -84,26 +84,30 @@ Our data model stores a range of data regarding college football over several se
 
 
 ## Queries:
-1) Query 1 shows conference champion trends, with teams added
+1) For query 1, we created a view which held a table of players who were seniors along with their position and school they played for a predetermined season (season 1). The view can be used to determine how many/which players were seniors for a specific team to find out who would be leaving next season.
+
+
+
+2) Query 2 shows conference champion trends, with teams added
    
 ![image](https://github.com/user-attachments/assets/d4ad8199-c710-4b32-b31c-3ea246b2111b)
 
 
 This query would be useful for 
 
-2) Query 2 shows players with the most stats and their NIL sponsor amount
+3) Query 3 shows players with the most stats and their NIL sponsor amount
 
 ![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/5ee2f443-3035-43b5-a0a2-d968ce924d68)
 
 This query shows
 
-3) Query 3 shows the data from schools that include their win/loss record as well as the points scored in games. 
+4) Query 4 shows the data from schools that include their win/loss record as well as the points scored in games. 
 
 <img width="491" alt="Screenshot 2024-12-01 at 6 22 51 PM" src="https://github.com/user-attachments/assets/c6170fc7-d32c-4ca7-b742-cceb2ecc0bde">
 
 This query is important for creating data-driven insights and knowing where to allocate resources and funding.
 
-4) Query 4 takes displays the list of all players including those who do and do not have NIL deals and displays their average receiving yards and average minutes played per game if they are a runningback or widereciever. It also provides their ID, full name, and the amount of their NIL contract if they have one. 
+5) Query 5 takes displays the list of all players including those who do and do not have NIL deals and displays their average receiving yards and average minutes played per game if they are a runningback or widereciever. It also provides their ID, full name, and the amount of their NIL contract if they have one. 
 
 ![Screenshot 2024-12-03 102853](https://github.com/user-attachments/assets/c1976e40-8b14-4b9d-a237-ff5eb87e2eff)
 
@@ -145,3 +149,5 @@ Name of the database: cs_aww39979
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
 CALL SP1();
+
+The workbook file to the tableau visualizations and dashboard will be included in the submission for our project.
