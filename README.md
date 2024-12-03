@@ -103,11 +103,11 @@ This query would be useful for discovering which teams had won the most conferen
 
 This query is useful for a variety of induviduals. For players looking to score an NIL deal, they can call this query to see how many yards they should plan to get in a season to draw teh attention of potential sponsors. They can also look at the NIL amount of other players to determine what kind of value they should strive to get out of a deal. The query could also be useful for companies wanting to make an NIL deal with a player. They can use the data this query brings up to determine a fair offer to make to a player given their cummulative offensive stats.
 
-4) Query 4 shows the data from schools that include their win/loss record as well as the points scored in games. 
+4) Query 4 shows the data for a team's win/loss record along with their average points for and against for a given season. The data is ordered by total wins, then by average points for, then by average points against. Only the top 10 teams are listed.
 
 ![Screenshot 2024-12-03 121926](https://github.com/user-attachments/assets/7d658ecd-6d8a-452b-b939-cc24a4d8195b)
 
-This query is important for creating data-driven insights and knowing where to allocate resources and funding.
+This query is important for creating data-driven insights and knowing where to allocate resources and funding. It highlights the 10 best teams adn shows whether the best teams are stronger on offense or defense based on the average points per game for and against. A coach could review this data and see that the best teams listed often have relatively high scoring games indicating that developing a strong offense may be more indicative to success rather than developing a string defense. This insight might influence a school or coach to invest more resources into their offense and away from teh defense.
 
 5) Query 5 takes displays the list of all players including those who do and do not have NIL deals and displays their average receiving yards and average minutes played per game if they are a runningback or widereciever. It also provides their ID, full name, and the amount of their NIL contract if they have one. 
 
