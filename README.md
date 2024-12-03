@@ -88,7 +88,7 @@ Our data model stores a range of data regarding college football over several se
 
 ![Screenshot 2024-12-03 114703](https://github.com/user-attachments/assets/f5d8130c-3d9e-44a1-8696-9c8f2a03328d)
 
-
+This view could be accessed by coaches and staff to view which of their players would be graduating and leaving the team next year. It would be useful as the coach could look up their specific team and find out whihc players adn positions will need to be replaced for next season. It is also helpful that the query utilizes a view because maybe the owner of teh database wouldn't want to the coach to see other information in teh database such as other coaches salaries so teh coach is only granted access to this view.
 
 2) Query 2 shows conference champion trends, with teams added
    
