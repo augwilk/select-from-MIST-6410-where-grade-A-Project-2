@@ -123,6 +123,11 @@ This Visualization could help college football playoff committee members to dist
 
 This Visualization allows coaches and recruiters to analyze what age is ideal for a college quarterback. We can perfrom analysis on this graph to determine that there is a significant dip in performance of players who are born in 2000, being the second to youngest age group who are likely sophmores. While at first this may seem odd, it does make sense when you think about the quarterback position. This dip in performace could be because second year quarterbacks have a year of film under their belt that opposing teams could use to game plan against them. Regardless of teh reason, thsi graph raises interesting questions that coaches and recruiters may want to consider when thinking about the age of the quarterback they plan to start.
 
+3. Visualization 3 maps the salary of a schools head coach per win under their belt. Salary per win is a calculated field made from dividing the total annual salary of a head coach divided by the number of wins his team records for the season. Schools with coaches in the top 25% of this statsitic are highlighted in white for review of unfair overpayment.
+
+![Screenshot 2024-12-02 200936](https://github.com/user-attachments/assets/9413f6d8-dd7e-4646-8e5c-570d5934b2fe)
+
+
 
 ## Database information:
 
