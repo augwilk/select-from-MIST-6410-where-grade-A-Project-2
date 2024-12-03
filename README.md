@@ -125,7 +125,13 @@ This Visualization allows coaches and recruiters to analyze what age is ideal fo
 
 3. Visualization 3 maps the salary of a schools head coach per win under their belt. Salary per win is a calculated field made from dividing the total annual salary of a head coach divided by the number of wins his team records for the season. Schools with coaches in the top 25% of this statsitic are highlighted in white for review of unfair overpayment.
 
-![Screenshot 2024-12-02 200936](https://github.com/user-attachments/assets/9413f6d8-dd7e-4646-8e5c-570d5934b2fe)
+![Screenshot 2024-12-03 094733](https://github.com/user-attachments/assets/fe6770b8-1400-436e-b658-84b4e5270133)
+
+This visualization is useful for program admisistrators and atheltic directors to use to determine if they are over paying thier head coach. By dividing the coach's salary by the number of their wins, the administration can basically see how much it costs them per win. If a program's coach is in that top 25 percentile for this statistic, they will probably want to review their coach's contract and reassess if they are getting teh return on investment that they want. For coaches with winning records, maybe it is worth overpaying them a bit. But for coaches with losing records, a demotion may be in order.
+
+4. Comprehensive Data Visualization Dashboard
+
+![Screenshot 2024-12-02 201044](https://github.com/user-attachments/assets/5436ddcb-2f1c-4c5a-aec6-99b7aac40b06)
 
 
 
