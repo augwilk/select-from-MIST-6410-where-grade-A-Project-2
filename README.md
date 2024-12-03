@@ -105,7 +105,7 @@ This query is useful for a variety of induviduals. For players looking to score 
 
 4) Query 4 shows the data from schools that include their win/loss record as well as the points scored in games. 
 
-![Screenshot 2024-12-03 120444](https://github.com/user-attachments/assets/3a326efe-49ed-440b-8b12-dd30a0c05ec8)
+![Screenshot 2024-12-03 121926](https://github.com/user-attachments/assets/7d658ecd-6d8a-452b-b939-cc24a4d8195b)
 
 This query is important for creating data-driven insights and knowing where to allocate resources and funding.
 
