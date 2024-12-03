@@ -132,7 +132,7 @@ This visualization is useful for program admisistrators and atheltic directors t
 
 4. Comprehensive Data Visualization Dashboard
 
-![Screenshot 2024-12-03 102853](https://github.com/user-attachments/assets/acfb3503-c803-41a6-b843-c7caf67efa0a)
+![Screenshot 2024-12-02 201044](https://github.com/user-attachments/assets/4c34b260-8c41-459f-8bfd-8f6f68cd5231)
 
 
 This dashboard is useful for authority figureswho want to comprehensively review relevant data for their team or school. The dashboard is a place where lots of data can be looked at and ocmpared at a high level. For example, an atheletic director fro a school like Nebraska may be looking to review the contract of their schools head coach. The AD could see that their coach has the highest salalry per win which may indicate that they are overpaid. The AD coudl then review the total wins bar chart and see that Nebraska actually has one of teh lowest win totals out of any school which likely means their head coach is seriously over paid. However, the AD may want to check the age of their starting quarterback before talking with the coach in case the reason for the losses is because the QB is in his second year when QBs tend to struggle.
