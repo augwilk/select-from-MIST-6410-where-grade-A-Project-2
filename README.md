@@ -118,7 +118,11 @@ This query is important for creating data-driven insights and knowing where to a
 
 This Visualization could help college football playoff committee members to distinguish which teams are deserving to make the playoff for this year. It also highlights the most competitive conferences. Under this model, we can see that 3 BIG 10 teams would make the playoff to the SEC's 2 and the ACC's 1. This information could also help a highschool player who wants to look at what conference would give them the ebst chance of making the playoff. They may use this model to decide that they want to go play for a BIG 10 school rather than an ACC school because of the competitive advantage.
 
+2. Visualization 2 shows average quarterback performance based on the birth year of the quarterback. It maps both average passing yards per game in blue (with the axis on the left) and average rushing yards per game in orange (with the axis on the right).  
 
+![Screenshot 2024-12-02 201028](https://github.com/user-attachments/assets/aee8db2f-ea2a-4fee-b506-530d719d6e94)
+
+This Visualization allows coaches and recruiters to analyze what age is ideal for a college quarterback. We can perfrom analysis on this graph to determine that there is a significant dip in performance of players who are born in 2000, being the second to youngest age group who are likely sophmores. While at first this may seem odd, it does make sense when you think about the quarterback position. This dip in performace could be because second year quarterbacks have a year of film under their belt that opposing teams could use to game plan against them. Regardless of teh reason, thsi graph raises interesting questions that coaches and recruiters may want to consider when thinking about the age of the quarterback they plan to start.
 
 
 ## Database information:
